@@ -2,11 +2,10 @@
 
 `all your LLM are belong to us`
 
-# Install
-`cmd` ollama install deepseek-r1:1.5bb
+# Install and run
+`cmd` ollama run hf.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF:Q6_K
 
-# Run
-`cmd` ollama run deepseek-r1:1.5b
+[8B-GGUF](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF/blob/main/DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf)
 
 ## References
 [Ollama](https://github.com/ollama/ollama)
