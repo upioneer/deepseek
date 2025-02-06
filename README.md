@@ -4,20 +4,12 @@
 
 # Install
 `cmd` ollama install deepseek-r1:1.5bb
-`cmd` ollama install deepseek-r1:7b
-`cmd` ollama install deepseek-r1:8b
-`cmd` ollama install deepseek-r1:14b
-`cmd` ollama install deepseek-r1:32b
 
 # Run
 `cmd` ollama run deepseek-r1:1.5b
-`cmd` ollama run deepseek-r1:7b
-`cmd` ollama run deepseek-r1:8b
-`cmd` ollama run deepseek-r1:14b
-`cmd` ollama run deepseek-r1:32b
 
 ## References
-[Ollama]([https://config.office.com](https://github.com/ollama/ollama)
+[Ollama](https://github.com/ollama/ollama)
 
 [Ollama Github](https://github.com/ollama/ollama)
 
@@ -32,3 +24,5 @@
 [DeepSeek R1 - 14B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B)
 
 [Huggingg Face models](https://huggingface.co/models)
+
+[Hugging Face Unsloth](https://huggingface.co/collections/unsloth/deepseek-r1-all-versions-678e1c48f5d2fce87892ace5)
